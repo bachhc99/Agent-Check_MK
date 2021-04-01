@@ -43,7 +43,7 @@ netstat -npl | grep 6556
 	- Với Ubuntu:
 	
 	```
-	ufw allow 5665/tcp
+	ufw allow 6556/tcp
 	ufw reload
 	```
 	
